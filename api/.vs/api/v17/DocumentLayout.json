@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Migrations\\20240729155018_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserService\\Migrations\\20240729155018_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\enums\\verificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\enums\\verificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|c:\\users\\nikol\\desktop\\primena-web-programiranja\\api\\userservice\\dtos\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490DEE5B-24F9-40E0-B7C5-1AE59A0A3D2B}|UserService\\UserService.csproj|solutionrelative:userservice\\dtos\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.http",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.http",
+              "RelativeDocumentMoniker": "UserService\\UserService.http",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.http",
+              "RelativeToolTip": "UserService\\UserService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-29T16:02:02.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240729155018_Init.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Migrations\\20240729155018_Init.cs",
+              "RelativeDocumentMoniker": "UserService\\Migrations\\20240729155018_Init.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Migrations\\20240729155018_Init.cs",
+              "RelativeToolTip": "UserService\\Migrations\\20240729155018_Init.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:50:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "UserService\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:49:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T15:47:45.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\DTOs\\Auth\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "UserService\\DTOs\\Auth\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\DTOs\\Auth\\AuthResponseDTO.cs",
+              "RelativeToolTip": "UserService\\DTOs\\Auth\\AuthResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:37:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "UserService\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "UserService\\Mappers\\UserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:36:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\UserService.cs",
+              "RelativeToolTip": "UserService\\UserService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwIIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:20:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T15:18:10.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:17:37.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Services\\TokenService.cs",
+              "RelativeToolTip": "UserService\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:10:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:10:00.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:09:38.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:09:25.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerificationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Enums\\VerificationStatus.cs",
+              "RelativeDocumentMoniker": "UserService\\Enums\\VerificationStatus.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Enums\\VerificationStatus.cs",
+              "RelativeToolTip": "UserService\\Enums\\VerificationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:07:51.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:06:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\DTOs\\Auth\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "UserService\\DTOs\\Auth\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\DTOs\\Auth\\RegisterUserDTO.cs",
+              "RelativeToolTip": "UserService\\DTOs\\Auth\\RegisterUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:15.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\primena-web-programiranja\\api\\UserService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAewEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:02:56.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
